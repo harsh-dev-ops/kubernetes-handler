@@ -1,1 +1,6 @@
 kubernetes
+# alembic
+# SQLAlchemy
+# psycopg-binary
+# fastapi
+# uvicorn
