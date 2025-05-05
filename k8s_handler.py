@@ -43,7 +43,7 @@ class KubernetesHandlerReference:
         print(f"Namespace {name} deleted")
 
 if __name__ == "__main__":
-    handler = KubernetesHandler()
+    handler = KubernetesHandlerReference()
     
     # Example usage
     handler.list_nodes()
